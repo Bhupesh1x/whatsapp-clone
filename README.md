@@ -24,9 +24,3 @@ Firebase for **Hosting, Google athentication(Full Log-In) and real time Database
 4 . For creating a new chat room user have to click on the add new button on the left side of the screen.
 5 . And then user can give name to the chat room according to his choice.
 6 . Then user can click on the room name and can chat in that room.
-
-# Why firebase?
-
-firebase lets you host all the data you want
-real time database
-Google's eco system on the back (`firebase`, `google authentication`) and `react` on the front ties together
